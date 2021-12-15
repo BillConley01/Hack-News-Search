@@ -131,13 +131,13 @@ function App() {
         <div className="d-flex justify-content-end">
         <input
           type="number"
-          className="w-25"
+          className="w-25 ml-4"
           style={{borderColor:'lightblue'}}
           value={pageSize}
           onChange={event => setPageSize(event.target.value)}
         />
-        <label className="ml-1 m-1 text-center" 
-        style={{color: 'lightgreen',fontWeight:'bold', textShadow: '4px 4px 5px black, 4px 4px 5px blue', marginLeft:10}}>Articles per Page</label>
+        <label className="m-1 text-center" 
+        style={{color: 'lightgreen',fontWeight:'bold', textShadow: '4px 4px 5px black, 4px 4px 5px blue'}}>Articles per Page</label>
         </div>
       </form>
       {isError && <div>Something went wrong ...</div>}

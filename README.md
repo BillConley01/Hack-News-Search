@@ -13,7 +13,7 @@ A web page that allows users to perform a keyword search of Hacker News articles
 </ol>
 <img src="./HackerNews.png"/>
 <h2>To see the web page in action follow this link:</h2>
-<a href="https://codesandbox.io/s/vibrant-sutherland-ut8l5?file=/src/app.jsx">Link to CodeSandbox</a>
+<a href="https://codesandbox.io/s/hackernewsarticles-react-ut8l5">Link to CodeSandbox</a>
 <h2>To use:</h2>
 <ul>
 <li>Fork this repository</li>

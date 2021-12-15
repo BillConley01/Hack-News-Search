@@ -128,7 +128,6 @@ function App() {
           onChange={event => setQuery(event.target.value)}
         />
         <button type="submit" style={{backgroundColor: 'lightgreen', borderColor:'lightblue'}}>Search</button>
-        <div className="d-flex justify-content-end">
         <input
           type="number"
           className="w-25 ml-4"
@@ -138,7 +137,6 @@ function App() {
         />
         <label className="m-1 text-center" 
         style={{color: 'lightgreen',fontWeight:'bold', textShadow: '4px 4px 5px black, 4px 4px 5px blue'}}>Articles per Page</label>
-        </div>
       </form>
       {isError && <div>Something went wrong ...</div>}
 

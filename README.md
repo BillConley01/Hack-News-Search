@@ -10,6 +10,7 @@ A web page that allows users to perform a keyword search of Hacker News articles
 <li>Axios is used to make the fetch request.</li>
 <li>ReactBoot is used for styling components.</li>
 <li>An Adobe stock photo was used for the background of the page.</li>
+  <li><a src="https://github.com/HackerNews/API">The Hacker New feed public API was used as the source of article</a></li>
 </ol>
 <img src="./HackerNews.png"/>
 <h2>To see the web page in action follow this link:</h2>

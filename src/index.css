@@ -1,0 +1,17 @@
+.custom-background {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+/*
+@media (min-width: 800px) {
+    body {
+        background-image:url(./io.jpeg});
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-color: black;
+    }
+}
+*/

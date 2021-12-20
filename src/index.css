@@ -1,17 +1,5 @@
-.custom-background {
-  background-position: center center;
-  background-size: cover;
+body {
+  background-image: linear-gradient(to bottom right, black, lightgreen);
   background-repeat: no-repeat;
-  background-color: black;
+  height: max-content;
 }
-/*
-@media (min-width: 800px) {
-    body {
-        background-image:url(./io.jpeg});
-        background-position: center center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-color: black;
-    }
-}
-*/

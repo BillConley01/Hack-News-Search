@@ -9,12 +9,11 @@ A web page that allows users to perform a keyword search of Hacker News articles
 <li>React useReducer is used to track the status of the data stream.</li>
 <li>Axios is used to make the fetch request.</li>
 <li>ReactBoot is used for styling components.</li>
-<li>An Adobe stock photo was used for the background of the page.</li>
   <li><a href="https://github.com/HackerNews/API">The Hacker New feed public API was used as the source for the article feed.</a></li>
 </ol>
 <img src="./HackerNews.png"/>
 <h2>To see the web page in action follow this link:</h2>
-<a href="https://codesandbox.io/s/hackernewsarticles-react-ut8l5">Link to CodeSandbox</a>
+<a href="https://ut8l5.csb.app/">Link to CodeSandbox</a>
 <h2>To use:</h2>
 <ul>
 <li>Fork this repository</li>

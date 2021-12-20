@@ -11,7 +11,7 @@ A web page that allows users to perform a keyword search of Hacker News articles
 <li>ReactBoot is used for styling components.</li>
   <li><a href="https://github.com/HackerNews/API">The Hacker New feed public API was used as the source for the article feed.</a></li>
 </ol>
-<img src="./HackerNews.png"/>
+<img src="./HackerNewsv2.png"/>
 <h2>To see the web page in action follow this link:</h2>
 <a href="https://ut8l5.csb.app/">Link to CodeSandbox</a>
 <h2>To use:</h2>

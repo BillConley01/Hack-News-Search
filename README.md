@@ -1,6 +1,6 @@
 # Hacker-News-Search
 A web page that allows users to perform a keyword search of Hacker News articles
-<p>This is the code for a basic Web application made with React to provides for a key word search of haacker News Articles. It originated from an assignment in Week #15 of MIT's MERN Coding Bootcamp. The challenge was to fetch data from an external source and build a site and user experience around the data organizing and displaying the fetched data in a way that is appropriate to the story being told with the data. .</p>
+<p>This is the code for a basic Web application made with React to provides for a key word search of hacker News Articles. It originated from an assignment in Week #15 of MIT's MERN Coding Bootcamp. The challenge was to fetch data from an external source and build a site and user experience around the data organizing and displaying the fetched data in a way that is appropriate to the story being told with the data. .</p>
 
 <h2>Features</h2>
 <ol>
